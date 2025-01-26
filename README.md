@@ -7,3 +7,5 @@ en menos de 4 intentos de lo contrario habra perdido y se puede jugar un máximo
 10 veces. 
 
 .......
+
+Para usarlo debes descargar todos los archivos y ejecutar el archivo index.html en tu navegador.
